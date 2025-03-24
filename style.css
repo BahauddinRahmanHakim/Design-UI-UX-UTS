@@ -1,0 +1,972 @@
+/* Frame 8 */
+.frame-8 {
+    position: relative;
+    width: 2102px;
+    height: 944px;
+    background: #FFFFFF;
+}
+
+/* Frame Atas */
+.frame-atas {
+    position: absolute;
+    width: 2102px;
+    height: 58px;
+    left: 0px;
+    top: 0px;
+    background: #EAEAEA;
+}
+
+/* Tokopedia Care */
+.tokopedia-care {
+    position: absolute;
+    width: 124px;
+    height: 23px;
+    left: 1938px;
+    top: 11px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    color: #706C6C;
+}
+
+/* Promo */
+.promo {
+    position: absolute;
+    width: 51px;
+    height: 22px;
+    left: 1834px;
+    top: 12px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #706C6C;
+}
+
+/* Mulai Berjualan */
+.mulai-berjualan {
+    position: absolute;
+    width: 125px;
+    height: 23px;
+    left: 1661px;
+    top: 11px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    color: #706C6C;
+}
+
+/* Mitra Tokopedia */
+.mitra-tokopedia {
+    position: absolute;
+    width: 130px;
+    height: 23px;
+    left: 1483px;
+    top: 11px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    color: #706C6C;
+}
+
+/* Image 1 */
+.image-1 {
+    position: absolute;
+    width: 46px;
+    height: 46px;
+    left: 7px;
+    top: -2px;
+    background: url(image.png);
+}
+
+/* Gratis Ongkir + Banyak Promo belanja di aplikasi */
+.gratis-ongkir {
+    position: absolute;
+    width: 402px;
+    height: 23px;
+    left: 50px;
+    top: 9px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 23px;
+    color: #000000;
+}
+
+/* Tentang Tokopedia */
+.tentang-tokopedia {
+    position: absolute;
+    width: 152px;
+    height: 23px;
+    left: 1280px;
+    top: 11px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    color: #706C6C;
+}
+
+/* Rotated Arrow (︿) */
+.rotated-arrow {
+    position: absolute;
+    width: 16px;
+    height: 19px;
+    left: 482px;
+    top: 13px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    transform: rotate(90deg);
+}
+
+/* Frame Atas ke 2 */
+.frame-atas-2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 2102px;
+    height: 103px;
+    left: 0px;
+    top: 58px;
+    border: 1px solid #E6E6E6;
+}
+
+/* Tokped Logo */
+.tokped-logo {
+    position: absolute;
+    width: 208.44px;
+    height: 46px;
+    left: 41px;
+    top: 9px;
+    background: url(tokped.png);
+}
+
+/* Kategori */
+.kategori {
+    position: absolute;
+    width: 85px;
+    height: 27px;
+    left: 305px;
+    top: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    color: #000000;
+}
+
+/* Samsung Note 10 */
+.samsung-note-10 {
+    position: absolute;
+    width: 152px;
+    height: 23px;
+    left: 422px;
+    top: 75px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    color: #706C6C;
+}
+
+/* Frame Pencarian */
+.frame-pencarian {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1254px;
+    height: 52px;
+    left: 419px;
+    top: 3px;
+    background: #FFFFFF;
+    border: 2px solid #EAEAEA;
+    border-radius: 10px;
+}
+
+/* Cari di Tokopedia */
+.cari-di-tokopedia {
+    position: absolute;
+    width: 163px;
+    height: 27px;
+    left: 60px;
+    top: 12px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: #706C6C;
+}
+
+/* Magnifying Glass Icon */
+.magnifying-glass {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    left: 10px;
+    top: 5px;
+    background: url(pngtree-magnifying-glass-vector-design-png-image_6074827-removebg-preview.png);
+}
+
+/* Hdd 1tb */
+.hdd-1tb {
+    position: absolute;
+    width: 64px;
+    height: 23px;
+    left: 952px;
+    top: 75px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    color: #706C6C;
+}
+
+/* Xbox Series X */
+.xbox-series-x {
+    position: absolute;
+    width: 113px;
+    height: 25px;
+    left: 1033px;
+    top: 75px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #706C6C;
+}
+
+/* Charger Mobil */
+.charger-mobil {
+    position: absolute;
+    width: 113px;
+    height: 23px;
+    left: 581px;
+    top: 75px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    color: #706C6C;
+}
+
+/* Samsung A73 */
+.samsung-a73 {
+    position: absolute;
+    width: 108px;
+    height: 23px;
+    left: 715px;
+    top: 75px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    color: #706C6C;
+}
+
+/* Pull Up Bar */
+.pull-up-bar {
+    position: absolute;
+    width: 89px;
+    height: 23px;
+    left: 846px;
+    top: 75px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    color: #706C6C;
+}
+
+/* Separator (|) */
+.separator {
+    position: absolute;
+    width: 15px;
+    height: 48px;
+    left: 1808px;
+    top: 5px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 44px;
+    color: rgba(0, 0, 0, 0.1);
+}
+
+/* Frame 1 */
+.frame-1 {
+    position: absolute;
+    width: 99px;
+    height: 41px;
+    left: 1853px;
+    top: 8px;
+    border: 2px solid #009A27;
+    border-radius: 8px;
+}
+
+/* Masuk */
+.masuk {
+    position: absolute;
+    width: 53px;
+    height: 19px;
+    left: 23px;
+    top: 11px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #009A27;
+}
+
+/* Frame 2 */
+.frame-2 {
+    position: absolute;
+    width: 93px;
+    height: 44px;
+    left: 1973px;
+    top: 8px;
+    background: #009A27;
+    border: 1.2px solid #009A27;
+    border-radius: 8px;
+}
+
+/* Daftar */
+.daftar {
+    position: absolute;
+    width: 48px;
+    height: 19px;
+    left: 23px;
+    top: 12px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+/* Dikirim ke Jakarta Pusat */
+.dikirim-ke-jakarta-pusat {
+    position: absolute;
+    width: 199px;
+    height: 23px;
+    left: 1843px;
+    top: 74px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    color: #000000;
+}
+
+/* Rotated Arrow (︿) */
+.rotated-arrow-down {
+    position: absolute;
+    width: 16px;
+    height: 19px;
+    left: 2069px;
+    top: 101px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    transform: rotate(180deg);
+}
+
+/* Map Pin Icon */
+.map-pin-icon {
+    position: absolute;
+    width: 42px;
+    height: 30px;
+    left: 1805px;
+    top: 73px;
+    background: url(map-pin2696-removebg-preview.png);
+}
+
+/* Basket Icon */
+.basket-icon {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: 1740px;
+    top: 15px;
+    background: url(basket.png);
+}
+
+
+/* Frame 7 */
+.frame-7 {
+    position: absolute;
+    width: 370px;
+    height: 248px;
+    left: 1505px;
+    top: 251px;
+    background: #FFFFFF;
+    border: 3px solid #EAEAEA;
+    border-radius: 8px;
+}
+
+/* Atur jumlah dan catatan */
+.atur-jumlah-catatan {
+    position: absolute;
+    width: 275px;
+    height: 24px;
+    left: 12px;
+    top: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 30px;
+    color: #000000;
+}
+
+/* Frame 1 */
+.frame-1 {
+    position: absolute;
+    width: 127px;
+    height: 35px;
+    left: 21px;
+    top: 80px;
+    border: 2px solid #EAEAEA;
+    border-radius: 8px;
+}
+
+/* 0 */
+.zero {
+    position: absolute;
+    width: 12px;
+    height: 21px;
+    left: 59px;
+    top: 8px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    text-align: center;
+    color: #706C6C;
+}
+
+/* + */
+.plus {
+    position: absolute;
+    width: 11px;
+    height: 19px;
+    left: 107px;
+    top: 8px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.3);
+}
+
+/* - */
+.minus {
+    position: absolute;
+    width: 8px;
+    height: 19px;
+    left: 14px;
+    top: 8px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.3);
+}
+
+/* bi:chat-left-text */
+.bi-chat-left-text {
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    left: 30px;
+    top: 208px;
+}
+
+/* Group */
+.group {
+    position: absolute;
+    left: 0%;
+    right: 18.75%;
+    top: 0%;
+    bottom: 4.42%;
+}
+
+/* Vector */
+.vector {
+    position: absolute;
+    left: 0%;
+    right: 18.75%;
+    top: 0%;
+    bottom: 4.42%;
+    background: rgba(0, 0, 0, 0.65);
+}
+
+/* Vector - Secondary */
+.vector-secondary {
+    position: absolute;
+    left: 15.23%;
+    right: 33.98%;
+    top: 18.75%;
+    bottom: 43.75%;
+    background: rgba(0, 0, 0, 0.65);
+}
+
+/* mdi:heart-outline */
+.mdi-heart-outline {
+    position: absolute;
+    width: 19px;
+    height: 19px;
+    left: 129px;
+    top: 205px;
+}
+
+/* Vector - Tertiary */
+.vector-tertiary {
+    position: absolute;
+    left: 8.33%;
+    right: 8.33%;
+    top: 12.5%;
+    bottom: 11.04%;
+    background: rgba(0, 0, 0, 0.55);
+}
+
+/* material-symbols:share-outline */
+.material-symbols-share-outline {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    left: 267px;
+    top: 206px;
+}
+
+/* Vector - Quaternary */
+.vector-quaternary {
+    position: absolute;
+    left: 8.33%;
+    right: 16.67%;
+    top: 8.33%;
+    bottom: 8.33%;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+
+/* 1 1 */
+.image-1-1 {
+    position: absolute;
+    width: 489px;
+    height: 489px;
+    left: 222px;
+    top: 250px;
+    background: url(1.jpg);
+}
+
+/* 1 2 */
+.image-1-2 {
+    position: absolute;
+    width: 84px;
+    height: 84px;
+    left: 225px;
+    top: 748px;
+    background: url(1.jpg);
+    border: 2px solid #009A27;
+    border-radius: 5px;
+}
+
+/* 2 1 */
+.image-2-1 {
+    position: absolute;
+    width: 85px;
+    height: 85px;
+    left: 322px;
+    top: 748px;
+    background: url(2.jpg);
+    border-radius: 5px;
+}
+
+
+/* 3 1 */
+.image-3-1 {
+    position: absolute;
+    width: 85px;
+    height: 85px;
+    left: 420px;
+    top: 748px;
+    background: url(3.jpg);
+    border-radius: 5px;
+}
+
+/* 4 1 */
+.image-4-1 {
+    position: absolute;
+    width: 85px;
+    height: 85px;
+    left: 518px;
+    top: 748px;
+    background: url(4.jpg);
+    border-radius: 5px;
+}
+
+/* 5 1 */
+.image-5-1 {
+    position: absolute;
+    width: 85px;
+    height: 85px;
+    left: 616px;
+    top: 748px;
+    background: url(5.jpg);
+    border-radius: 5px;
+}
+
+/* Home > Komputer & Laptop > Laptop > Macbook > [SPECIAL BUNDLING] Apple Macbook Pro M... */
+.breadcrumb {
+    position: absolute;
+    width: 922px;
+    height: 23px;
+    left: 222px;
+    top: 197px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    color: #009A27;
+}
+
+/* Detail */
+.detail {
+    position: absolute;
+    width: 131px;
+    height: 39px;
+    left: 776px;
+    top: 771px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    color: #009A27;
+}
+
+/* Info Penting */
+.info-penting {
+    position: absolute;
+    width: 172px;
+    height: 39px;
+    left: 907px;
+    top: 772px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 26px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+/* Kondisi: Baru */
+.kondisi-baru {
+    position: absolute;
+    width: 127px;
+    height: 26px;
+    left: 776px;
+    top: 837px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+/* Etalase: Macbook */
+.etalase-macbook {
+    position: absolute;
+    width: 178px;
+    height: 27px;
+    left: 779px;
+    top: 902px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+/* Min. Pemesanan: 1 Buah */
+.min-pemesanan {
+    position: absolute;
+    width: 238px;
+    height: 30px;
+    left: 779px;
+    top: 870px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19.5px;
+    line-height: 27px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+/* Vector 2 */
+.vector-2 {
+    position: absolute;
+    width: 124px;
+    height: 0px;
+    left: 779px;
+    top: 815px;
+    border: 3px solid #009A27;
+}
+
+/* [SPECIAL BUNDLING] Apple Macbook Pro M2 13” 512GB 256GB Garansi Resmi */
+.special-bundling {
+    position: absolute;
+    width: 627px;
+    height: 66px;
+    left: 779px;
+    top: 248px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25.8px;
+    line-height: 35px;
+    color: #000000;
+}
+
+/* Terjual 5 */
+.terjual-5 {
+    position: absolute;
+    width: 80px;
+    height: 27px;
+    left: 778px;
+    top: 323px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18.9px;
+    line-height: 26px;
+    color: #000000;
+}
+
+/* Pilih kapasitas memori: 2 Kapasitas Memori */
+.pilih-kapasitas-memori {
+    position: absolute;
+    width: 535px;
+    height: 28px;
+    left: 779px;
+    top: 617px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 30px;
+    color: #000000;
+}
+
+/* Pilih warna: 2 Warna */
+.pilih-warna {
+    position: absolute;
+    width: 246px;
+    height: 28px;
+    left: 779px;
+    top: 472px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 29px;
+    color: #000000;
+}
+
+/* Rp25.498.000 */
+.price {
+    position: absolute;
+    width: 324px;
+    height: 56px;
+    left: 776px;
+    top: 365px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 43px;
+    line-height: 59px;
+    color: #000000;
+}
+
+/* 4.5 (2 rating) */
+.rating {
+    position: absolute;
+    width: 122px;
+    height: 22px;
+    left: 919px;
+    top: 323px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: #000000;
+}
+
+/* Frame 3 */
+.frame-3 {
+    position: absolute;
+    width: 132px;
+    height: 49px;
+    left: 787px;
+    top: 525px;
+    background: #E7E7E7;
+    border-radius: 8px;
+}
+
+/* Space Gray */
+.space-gray {
+    position: absolute;
+    width: 114px;
+    height: 27px;
+    left: 9px;
+    top: 11px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    color: rgba(112, 108, 108, 0.6);
+}
+
+/* Frame 4 */
+.frame-4 {
+    position: absolute;
+    width: 88px;
+    height: 49px;
+    left: 929px;
+    top: 525px;
+    background: #EAEAEA;
+    border-radius: 8px;
+}
+
+/* Silver */
+.silver {
+    position: absolute;
+    width: 63px;
+    height: 27px;
+    left: 12px;
+    top: 11px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    color: rgba(112, 108, 108, 0.6);
+}
+
+
+/* Frame 5 */
+.frame-5 {
+    position: absolute;
+    width: 92px;
+    height: 49px;
+    left: 794px;
+    top: 674px;
+    background: #EAEAEA;
+    border-radius: 8px;
+}
+
+/* 256GB */
+.storage-256gb {
+    position: absolute;
+    width: 82px;
+    height: 30px;
+    left: 5px;
+    top: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    color: rgba(112, 108, 108, 0.6);
+}
+
+/* Frame 6 */
+.frame-6 {
+    position: absolute;
+    width: 92px;
+    height: 49px;
+    left: 892px;
+    top: 674px;
+    background: #EAEAEA;
+    border-radius: 8px;
+}
+
+/* 512GB */
+.storage-512gb {
+    position: absolute;
+    width: 72px;
+    height: 30px;
+    left: 10px;
+    top: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    color: rgba(112, 108, 108, 0.6);
+}
+
+/* Star 1 */
+.star-1 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 891px;
+    top: 327px;
+    background: url(star.png);
+}
+
+/* Dot */
+.dot {
+    position: absolute;
+    width: 8px;
+    height: 22px;
+    left: 871px;
+    top: 319px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: #000000;
+}
